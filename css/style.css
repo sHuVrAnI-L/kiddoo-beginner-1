@@ -1,0 +1,307 @@
+body{
+margin:0;
+padding:0;
+}
+a,h1,h2,h3,h4,h5,h6,ul,li,div{
+margin:0;
+padding:0;
+}
+.container{
+margin:0 auto;
+width:970px;
+}
+.header-section{
+width:100%;
+float:left;
+}
+.logo-part {
+width: 15%;
+float: left;
+padding: 0px 25px;
+}
+.logo-part p{
+font-family:cursive;
+font-size:25px;
+}
+.logo-color-1{
+float:left;
+color:red;
+font-weight:bold;
+}
+.logo-color-2{
+float:left;
+color:violet;
+font-weight:bold;
+}
+.logo-color-3{
+float:left;
+color: #41e941;
+font-weight:bold;
+}
+.logo-color-4{
+float:left;
+color: rgb(6 155 224);
+font-weight:bold;
+}
+.logo-color-5{
+float:left;
+color:orange;
+font-weight:bold;
+}
+.menu-part{
+width:70%;
+float:left;
+}
+.menu-part ul{
+list-style-type:none;
+}
+.menu-part ul li {
+float: left;
+padding: 10px 15px;
+margin-top: 25px;
+}
+.menu-part ul li a{
+text-decoration:none;
+font-weight:bold;
+}
+.menu-part-color-1{
+color:chocolate;
+}
+.menu-part-color-2{
+color: cornflowerblue;
+}
+.menu-part-color-3{
+color:yellowgreen;
+}
+.menu-part-color-4{
+color:violet;
+}
+.menu-part-color-5{
+color:tomato;
+}
+.menu-part-color-6{
+color:orange;
+}
+.menu-part-color-7{
+color:darkviolet;
+}
+.banner-section{
+width:100%;
+float:left;
+position:relative;
+}
+.banner-section img{
+width:100%;
+height:500px;
+}
+.floating-text {
+width: 100%;
+position: absolute;
+top: 65%;
+left: 0;
+}
+.combaining-para {
+width:100%;
+float:left;
+}
+p.floating-text-1 {
+font-size: 25px;
+background-color: #ff00005c;
+text-align: center;
+color: white;
+padding: 10px 0px;
+}
+p.floating-text-2 {
+font-size: 20px;
+background-color: #ff00005c;
+text-align: center;
+color: white;
+padding: 10px 0px;
+}
+.information-section{
+width:100%;
+float:left;
+}
+.info-part-1{
+width: 20.22%;
+float:left;
+text-align: center;
+background-color: indianred;
+color: #ffffff;
+padding: 10px 15px;
+margin-left: 5px;
+margin-right: 5px;
+}
+.info-part-1 button{
+background-color: indianred;
+color:#ffffff;
+border: 2px solid #ffffff;
+}
+.info-part-2 {
+width: 20.22%;
+float:left;
+text-align: center;
+background-color:mediumvioletred;
+color: #ffffff;
+padding: 10px 15px;
+margin-left: 5px;
+margin-right: 5px;
+}
+.info-part-2 button{
+background-color: mediumvioletred;
+color:#ffffff;
+border: 2px solid #ffffff;
+}
+.info-part-3 {
+width: 20.22%;
+float:left;
+text-align: center;
+background-color: darkseagreen;
+color: #ffffff;
+padding: 10px 15px;
+margin-left: 5px;
+margin-right: 5px;
+}
+.info-part-3 button{
+background-color:  darkseagreen;
+color:#ffffff;
+border: 2px solid #ffffff;
+}
+.info-part-4 {
+width: 20.22%;
+float:left;
+text-align: center;
+background-color: cornflowerblue;
+color: #ffffff;
+padding: 10px 15px;
+margin-left: 5px;
+margin-right: 5px;
+}
+.info-part-4 button{
+background-color: cornflowerblue;
+color:#ffffff;
+border: 2px solid #ffffff;
+}
+.youtube-section{
+width:100%;
+float:left;
+}
+.youtube-section-header{
+width:100%;
+float:left;
+}
+.youtube-section-header h3 {
+font-size: 28px;
+color: cornflowerblue;
+padding-top: 10px;
+}
+.youtube-video{
+width:100%;
+float:left;
+}
+.youtube-video iframe{
+margin-left:10px;
+margin-left:10px;
+}
+.video-1{
+background-color:red;
+}
+.video-1 p{
+width:300px;
+color:darkgrey;
+}
+.information2-section{
+width:100%;
+float:left;
+}
+.left-part{
+width:60%;
+float:left;
+}
+.left-part h2 {
+color: cornflowerblue;
+font-size: 30px;
+}
+.left-part a {
+text-decoration: none;
+color: cornflowerblue;
+}
+.right-part{
+width:40%;
+float:left;
+}
+.right-part h2 {
+color: cornflowerblue;
+font-size: 30px;
+}
+.right-part ul{
+list-style-type:none;
+}
+.right-part ul li {
+border: double;
+padding: 1px 50px;
+} 
+.right-part ul li a{
+text-decoration:none;
+color:cornflowerblue;
+}
+.address-section{
+width:100%;
+float:left;
+background-color:cornflowerblue;
+}
+.column-1{
+width:25%;
+float:left;
+}
+.column-1 h3{
+color: #ffffff;
+font-size: 20px;
+}
+.column-1 p{
+color:#ffffff;
+}
+.fav-icon {
+width: 100%;
+float: left;
+background-color: cornflowerblue;
+}
+.icons {
+float: left;
+color: #ffffff;
+padding: 2px 5px;
+font-size: 25px;
+}
+.main-icon {
+margin: 0 auto;
+display: table;
+}
+.footer{
+width:100%;
+float:left;
+ background-color: cornflowerblue;
+  
+}
+
+.footer-left{
+width:70%;
+float:left;
+}
+.footer-left ul{
+list-style-type:none;
+}
+.footer-left ul li{
+float: left;
+padding: 10px 15px;
+margin-top: 25px;
+}
+.footer-left ul li a {
+text-decoration: none;
+font-weight: bold;
+color: white;
+}
+
+
+
+
+
